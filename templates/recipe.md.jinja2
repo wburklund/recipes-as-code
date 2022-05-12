@@ -1,0 +1,29 @@
+## {{recipe.name}}
+
+{{recipe.description}}
+
+### Ingredients
+
+| Name | Amount |
+| ---- | ------ |
+{% for ingredient in recipe.ingredients -%}
+| {{ingredient.name}} | {{ingredient.amount}} |
+{% endfor %}
+
+{% if recipe.steps %}
+### Steps
+{% for step in recipe.steps %}
+- [ ] {{step.name}}
+{%- for substep in step.substeps %}
+    - [ ] {{substep}}
+{%- endfor %}
+{%- endfor %}
+{%- endif %}
+
+### Produces
+{{recipe.produces}}
+
+{% if recipe.source %}
+### Source
+<{{recipe.source}}>
+{% endif %}

@@ -1,6 +1,6 @@
 site_name: Recipes As Code
 theme:
-  name: material
+  name: material 
   palette:
   - media: "(prefers-color-scheme: light)"
     scheme: default
@@ -12,3 +12,11 @@ theme:
     toggle:
       icon: material/weather-sunny
       name: Switch to light mode
+markdown_extensions:
+- pymdownx.tasklist:
+    clickable_checkbox: true
+    custom_checkbox: true
+plugins:
+  - search
+  - macros
+  
