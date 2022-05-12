@@ -1,6 +1,8 @@
 # Recipes As Code
 
-My personal recipe management system, built on [MkDocs](https://www.mkdocs.org/). All recipes are publicly available and cited.
+Recipe management system built on [MkDocs](https://www.mkdocs.org/).
+Leverages YAML for efficient representation of recipes.
+All recipes are publicly available and cited.
 
 ## Features (WIP)
 
