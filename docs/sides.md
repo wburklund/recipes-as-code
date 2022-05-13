@@ -1,0 +1,3 @@
+# Sides
+
+{{recipe("sides/quinoa")}}

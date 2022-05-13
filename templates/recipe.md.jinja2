@@ -16,10 +16,12 @@
 {% if recipe.steps %}
 ### Steps
 {% for step in recipe.steps %}
-- [ ] {{step.name}}
+- [ ] {{step.step}}
+{%- if step.substeps is not none %}
 {%- for substep in step.substeps %}
     - [ ] {{substep}}
 {%- endfor %}
+{%- endif %}
 {%- endfor %}
 {%- endif %}
 

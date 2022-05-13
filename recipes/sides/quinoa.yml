@@ -1,0 +1,23 @@
+name: Quinoa
+description: |
+  Quinoa is my go-to grain because it has more protein than your usual rice.
+  It's a cinch to prepare on the stove: no need for a rice cooker.
+ingredients:
+- name: Uncooked quinoa
+  amount: 1 cup
+- name: Water
+  amount: 2 cups
+- name: Salt
+  amount: 1/4 tsp or to taste
+steps:
+- step: Put the quinoa in a mesh strainer and rinse it under the faucet for 30 seconds.
+- step: Cook the quinoa in a saucepan.
+  substeps:
+  - Add quinoa and water to saucepan
+  - Heat over medium-high heat until it reaches a boil
+  - Reduce heat to a simmer
+  - Let quinoa cook for 10-20 minutes, until all water is absorbed
+- step: Fluff quinoa with a fork
+- step: Season with salt
+produces: Three cups cooked quinoa.
+source: https://cookieandkate.com/perfect-quinoa/

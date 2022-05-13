@@ -21,7 +21,7 @@ class Ingredient(BaseModel):
 
 
 class Step(BaseModel):
-    name: str
+    step: str
     substeps: Optional[List[str]]
 
 
