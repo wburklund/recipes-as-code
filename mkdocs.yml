@@ -12,6 +12,10 @@ theme:
     toggle:
       icon: material/weather-sunny
       name: Switch to light mode
+watch:
+- main
+- recipes
+- templates
 markdown_extensions:
 - pymdownx.tasklist:
     clickable_checkbox: true
