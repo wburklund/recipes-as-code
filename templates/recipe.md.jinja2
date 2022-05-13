@@ -1,3 +1,6 @@
+{%- if recipe.image -%}
+![{{recipe.image.alt}}]({{recipe.image.url}})
+{%- endif %}
 ## {{recipe.name}}
 
 {{recipe.description}}
@@ -7,7 +10,7 @@
 | Name | Amount |
 | ---- | ------ |
 {% for ingredient in recipe.ingredients -%}
-| {{ingredient.name}} | {{ingredient.amount}} |
+| {{ingredient.formatted_name}} | {{ingredient.amount}} |
 {% endfor %}
 
 {% if recipe.steps %}
