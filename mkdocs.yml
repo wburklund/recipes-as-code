@@ -21,6 +21,6 @@ markdown_extensions:
     clickable_checkbox: true
     custom_checkbox: true
 plugins:
-  - search
-  - macros
+- search
+- macros
   
