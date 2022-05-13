@@ -2,15 +2,16 @@ name: Butter
 description: |
   Did you know butter is 50% saturated fat?
   This recipe replaces the saturated fat in batter with unsaturated fat from canola oil.
-  It tastes and acts like butter in most recipes.
+  It acts and tastes like butter in most recipes.
 
   Note that butter acts as a leavening agent in baking.
   If someone figured out how to replicate that effect, you could make flaky biscuits and muffins using oil.
 ingredients:
   - name: Canola oil
     amount: 3/4 cup
-  - name: "[Butter emulsion](https://www.lorannoils.com/bakery-emulsions/butter-bakery-emulsion-0752-emulsion)"
+  - name: Butter flavor
     amount: 2 tsp
+    link: https://www.lorannoils.com/bakery-emulsions/butter-bakery-emulsion-0752-emulsion
   - name: Water
     amount: 1-2 tbsp
 produces: One cup butter equivalent.

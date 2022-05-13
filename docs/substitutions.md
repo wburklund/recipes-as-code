@@ -1,5 +1,7 @@
 # Substitutions
 
-{{recipe("butter")}}
+{{recipe("substitutions/butter")}}
 
-{{recipe("milk")}}
+---
+
+{{recipe("substitutions/milk")}}
