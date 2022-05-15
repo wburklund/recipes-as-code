@@ -1,0 +1,28 @@
+name: Taco seasoning
+description: |
+  My go-to taco seasoning, made of common spices.
+
+  Scale up or down as desired (I scaled down the original recipe by a factor of 4).
+
+  You can decrease/remove salt to control the sodium content.
+ingredients:
+  - name: Chili powder
+    amount: 5 tbsp
+  - name: Salt
+    amount: 1 tbsp 1 tsp
+  - name: Cumin
+    amount: 2 tbsp
+  - name: Paprika
+    amount: 1 tbsp 1 tsp
+  - name: Garlic powder
+    amount: 1 tbsp
+  - name: Onion powder
+    amount: 1 tbsp
+  - name: Black pepper
+    amount: 1 tbsp
+  - name: Dried oregano
+    amount: 3/4 tsp
+  - name: Red pepper flakes
+    amount: 3/8 tsp
+produces: About 7/8 cup seasoning.
+source: https://amindfullmom.com/diy-taco-seasoning/

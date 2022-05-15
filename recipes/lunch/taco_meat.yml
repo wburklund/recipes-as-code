@@ -1,0 +1,27 @@
+name: Taco meat
+description: |
+  Classic taco meat.
+  I multiply the recipe by a factor of 2 or 3.
+ingredients:
+  - name: Lean ground beef
+    amount: 1 lb
+  - name: Tomato sauce
+    amount: 1/2 cup
+  - name: Water
+    amount: 1/4 cup
+  - name: Taco seasoning
+    amount: 2 tbsp
+    link: /spices/#taco-seasoning
+steps:
+  - step: Brown the ground beef over medium-high heat, crumbling into small chunks
+  - step: Drain fat with paper towels or a colander
+  - step: Return meat and add other ingredients to pan
+    substeps:
+      - Meat
+      - Taco seasoning
+      - Tomato sauce
+      - Water
+  - step: Bring to a boil then simmer for 5-7 minutes, stirring occasionally
+  - step: Serve immediately or let cool and refrigerate/freeze
+produces: 1 pound taco meat.
+source: https://amindfullmom.com/3-ingredient-taco-meat-and-4-ways-to-use-it/
