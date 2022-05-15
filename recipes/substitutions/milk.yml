@@ -3,9 +3,9 @@ description: |
   This recipe replaces the saturated fat in whole milk with unsaturated fat from olive oil.
   It works well because milk is already liquid.
 ingredients:
-  - name: Skim milk
-    amount: 1 cup
-  - name: Olive oil
-    amount: 1 tbsp
+- name: Skim milk
+  amount: 1 cup
+- name: Olive oil
+  amount: 1 tbsp
 produces: 1 cup whole milk equivalent.
-source: "https://www.heart.org/en/healthy-living/healthy-eating/cooking-skills/cooking/smart-substitutions-to-eat-healthy"
+source: https://www.heart.org/en/healthy-living/healthy-eating/cooking-skills/cooking/smart-substitutions-to-eat-healthy
