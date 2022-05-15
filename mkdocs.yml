@@ -14,6 +14,16 @@ theme:
         name: Switch to light mode
   features:
     - navigation.sections
+nav:
+  - index.md
+  - Recipes:
+    - breakfast.md
+    - lunch.md
+    - sides.md
+    - spices.md
+  - Techniques:
+    - conversions.md
+    - substitutions.md
 watch:
   - main
   - recipes
