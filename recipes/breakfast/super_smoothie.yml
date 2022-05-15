@@ -1,0 +1,39 @@
+name: Super Smoothie
+description: |
+  The best damn smoothie for balancing muscle-building, nutrition, convenience, and taste.
+  I drink it every morning as two meals.
+  
+  This recipe leans on whey to boost its protein content.
+  For a silky-smooth texture, we blend the greens and fruit in two stages.
+
+  Feel free to experiment with different fruits and vegetables: I use 1 cup each of berries, baby spinach, and kale.
+ingredients:
+- name: Leafy greens
+  amount: 2 cups
+- name: Fruit (frozen)
+  amount: 1 cup
+- name: Banana
+  amount: 1
+- name: Whey protein
+  amount: 2 scoops
+  link: https://www.amazon.com/Optimum-Nutrition-Standard-Protein-Chocolate/dp/B000QSNYGI
+- name: Milk
+  amount: 1 cup
+  link: /substitutions/#milk
+- name: Water
+  amount: 1/2 cup
+steps:
+- step: Put greens and liquids in blender
+  substeps:
+  - Greens
+  - Milk
+  - Water
+- step: Blend until greens are completely blended with no chunks remaining.
+- step: Add remaining ingredients to blender
+  substeps:
+  - Frozen fruit
+  - Banana
+  - Whey protein
+- step: Blend until texture is creamy and smooth
+produces: Two meals' worth of smoothie.
+source: https://foodwithfeeling.com/green-smoothie-recipe/
