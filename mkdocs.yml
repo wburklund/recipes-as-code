@@ -2,25 +2,25 @@ site_name: Recipes As Code
 theme:
   name: material 
   palette:
-  - media: "(prefers-color-scheme: light)"
-    scheme: default
-    toggle:
-      icon: material/weather-night
-      name: Switch to dark mode
-  - media: "(prefers-color-scheme: dark)"
-    scheme: slate
-    toggle:
-      icon: material/weather-sunny
-      name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 watch:
-- main
-- recipes
-- templates
+  - main
+  - recipes
+  - templates
 markdown_extensions:
-- pymdownx.tasklist:
-    clickable_checkbox: true
-    custom_checkbox: true
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+      custom_checkbox: true
 plugins:
-- search
-- macros
+  - search
+  - macros
   
