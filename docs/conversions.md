@@ -1,5 +1,28 @@
 # Conversions
 
+## Unit Conversions
+
+### Dry Ingredients
+
+| Unit | Equivalent |
+|------|------------|
+| 1 tbsp | 3 tsp |
+| 1 cup | 16 tbsp |
+
+### Liquid Ingredients
+
+| Unit | Equivalent |
+|------|------------|
+| 1 cup | 8 fl oz |
+| 1 pint | 2 cups |
+| 1 quart | 4 cups |
+| 1 quart | 2 pints |
+| 1 gallon | 16 cups |
+| 1 gallon | 4 quarts |
+
+### Source
+<https://sallysbakingaddiction.com/how-to-measure-baking-ingredients/>
+
 ## Baking Ingredients: Volume to Weight
 
 In baking, it's important to measure your ingredients accurately.
