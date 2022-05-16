@@ -1,0 +1,39 @@
+name: Roasted Chicken Rub
+description: Herb and smoky spice blend that complements chicken.
+ingredients:
+  - name: Celery flakes
+    amount: 1 tbsp
+  - name: Kosher salt
+    amount: 1 tbsp
+  - name: Paprika
+    amount: 1 tbsp
+  - name: Garlic powder
+    amount: 1 tbsp
+  - name: Onion powder
+    amount: 1 tbsp
+  - name: Ground thyme
+    amount: 1 tbsp
+  - name: Dried sage
+    amount: 2 tsp
+  - name: Black pepper
+    amount: 1 1/2 tsp
+  - name: Dried rosemary
+    amount: 1 1/2 tsp
+  - name: Cayenne pepper
+    amount: 1/2 tsp
+steps:
+  - step: Mix ingredients in a bowl
+    substeps:
+      - Celery flakes
+      - Kosher salt
+      - Paprika
+      - Garlic powder
+      - Onion powder
+      - Ground thyme
+      - Dried sage
+      - Black pepper
+      - Dried rosemary
+      - Cayenne pepper
+  - step: Blend in a spice grinder or food processor until smooth
+produces: About 1/2 cup chicken rub.
+source: https://www.allrecipes.com/recipe/238147/roasted-chicken-rub/
