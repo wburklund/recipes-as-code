@@ -1,0 +1,32 @@
+name: Poached Chicken or Turkey Breasts
+description: |
+  Poaching is an underrated method of cooking.
+  It cooks food to a consistent temperature with no risk of burning.
+  We also get to infuse the meat with the flavors of ingredients and herbs we add to the water.
+
+  The resulting meat is super-soft and can be shredded with the paddle attachment of a stand mixer.
+  I like to eat it in a bowl with [quinoa](/sides/#quinoa) and vegetables.
+ingredients:
+  - name: Chicken or turkey breast (boneless, skinless)
+    amount: 2 lb
+  - name: Onion (quartered)
+    amount: 1
+  - name: Celery (cut into 2-3 in pieces)
+    amount: 2 stalks
+  - name: Low-sodium chicken stock or broth
+    amount: 4 cups
+  - name: Bay leaf
+    amount: 1
+steps:
+  - step: Place chicken/turkey breast in a single layer in a large, heavy-bottomed pot
+  - step: Add the rest of the ingredients
+    substeps:
+      - Onion
+      - Celery
+      - Stock/broth
+      - Bay leaf
+  - step: Cover, bring to a boil, and reduce heat to a simmer
+  - step: Cook until meat reaches 165 F (15-20 minutes)
+  - step: Remove the poultry and shred if desired
+produces: 2 lbs poached chicken or turkey breast.
+source: https://www.thespruceeats.com/recipe-for-poached-chicken-909264
