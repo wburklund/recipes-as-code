@@ -17,14 +17,14 @@ theme:
 nav:
   - index.md
   - Recipes:
-    - breakfast.md
-    - lunch.md
-    - dinner.md
-    - sides.md
-    - spices.md
+    - recipes/breakfast.md
+    - recipes/lunch.md
+    - recipes/dinner.md
+    - recipes/sides.md
+    - recipes/spices.md
   - Techniques:
-    - conversions.md
-    - substitutions.md
+    - techniques/conversions.md
+    - techniques/substitutions.md
 watch:
   - main
   - recipes

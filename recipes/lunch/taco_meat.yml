@@ -11,7 +11,7 @@ ingredients:
     amount: 1/4 cup
   - name: Taco seasoning
     amount: 2 tbsp
-    link: /spices/#taco-seasoning
+    link: /recipes/spices/#taco-seasoning
 steps:
   - step: Brown the ground beef over medium-high heat, crumbling into small chunks
   - step: Drain fat with paper towels or a colander
