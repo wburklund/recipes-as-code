@@ -9,4 +9,5 @@ All recipes are publicly available and cited.
 * Links to component recipes
 * Full-text search
 * Interactive checklists
+* Mobile-friendly
 * Dark mode
