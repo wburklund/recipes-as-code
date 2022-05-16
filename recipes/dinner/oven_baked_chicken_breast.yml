@@ -1,0 +1,42 @@
+name: Oven Baked Chicken Breast
+description: |
+  My go-to recipe for sprucing up chicken breasts.
+  Juicy thanks to the olive oil and brown sugar.
+ingredients:
+  - name: Chicken breasts (5-6 oz)
+    amount: 4
+  - name: Olive oil
+    amount: 2 tsp
+  - name: Brown sugar
+    amount: 1 tbsp 1 1/2 tsp
+  - name: Paprika
+    amount: 1 tsp
+  - name: Dried oregano or thyme
+    amount: 1 tsp
+  - name: Garlic powder
+    amount: 1/4 tsp
+  - name: Salt
+    amount: 1/2 tsp
+  - name: Black pepper
+    amount: 1/2 tsp
+steps:
+  - step: Preheat oven to 425 degrees F
+  - step: Mix seasoning
+    substeps:
+      - Brown sugar
+      - Paprika
+      - Oregano/thyme
+      - Garlic powder
+      - Salt
+      - Black pepper
+  - step: Pound chicken to 0.6" at the thickest part for even cooking
+  - step: Line baking sheet with parchment paper
+  - step: Lay chicken upside down on tray
+  - step: Drizzle chicken with 1 tsp olive oil and rub with fingers
+  - step: Sprinkle with seasoning and rub to cover as much surface area as you can
+  - step: Flip chicken and repeat previous two steps
+  - step: Bake about 18 minutes, until surface is golden and meat is 165 degrees F
+  - step: Remove from oven
+  - step: Let chicken rest 3-5 minutes before serving
+produces: 4 oven-baked chicken breasts.
+source: https://www.recipetineats.com/oven-baked-chicken-breast/
