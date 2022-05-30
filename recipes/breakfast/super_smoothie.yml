@@ -19,7 +19,7 @@ ingredients:
     link: https://www.amazon.com/Optimum-Nutrition-Standard-Protein-Chocolate/dp/B000QSNYGI
   - name: Milk
     amount: 1 cup
-    link: /techniques/substitutions/#whole-milk
+    link: ../../techniques/substitutions/#whole-milk
   - name: Water
     amount: 1/2 cup
 steps:
