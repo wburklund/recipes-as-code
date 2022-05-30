@@ -4,4 +4,12 @@
 
 ---
 
+{{recipe("substitutions/celery")}}
+
+---
+
+{{recipe("substitutions/onion")}}
+
+---
+
 {{recipe("substitutions/milk")}}

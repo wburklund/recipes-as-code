@@ -1,0 +1,8 @@
+name: Onion
+description: |
+  This substitution replaces fresh onions with the equivalent onion powder.
+ingredients:
+  - name: Onion powder
+    amount: 1 tbsp
+produces: 1 medium onion equivalent.
+source: https://www.hungryhuy.com/onion-substitutes/

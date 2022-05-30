@@ -11,8 +11,10 @@ ingredients:
     amount: 2 lb
   - name: Onion (quartered)
     amount: 1
+    link: /techniques/substitutions/#onion
   - name: Celery (cut into 2-3 in pieces)
     amount: 2 stalks
+    link: /techniques/substitutions/#celery
   - name: Low-sodium chicken stock or broth
     amount: 4 cups
   - name: Bay leaf
