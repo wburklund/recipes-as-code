@@ -1,0 +1,15 @@
+name: Brown Sugar
+description: |
+  I hate having three different "colors" of sugar to manage.
+  This substitution replaces light brown sugar and dark brown sugar with appropriate ratios of white sugar and molasses.
+  After all, brown sugar - molasses = white sugar!
+
+  Use 1 tbsp molasses for light brown sugar, 2 tbsp molasses for dark brown sugar.
+  You could also use this recipe with other sweeteners to get brown sugar taste with greatly reduced calories.
+ingredients:
+  - name: White sugar
+    amount: 1 cup
+  - name: Molasses
+    amount: 1 tbsp or 2 tbsp
+produces: One cup light brown sugar or dark brown sugar equivalent.
+source: https://www.healthline.com/nutrition/brown-sugar-substitutes

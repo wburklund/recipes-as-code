@@ -1,5 +1,9 @@
 # Substitutions
 
+{{recipe("substitutions/brown_sugar")}}
+
+---
+
 {{recipe("substitutions/butter")}}
 
 ---
