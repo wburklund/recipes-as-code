@@ -1,0 +1,26 @@
+name: Crisco Frosting
+description: |
+  Bakeries often use this frosting for cakes and sugar cookies.
+  It holds its shape much better than buttercream frosting, and it has 50% less saturated fat.
+ingredients:
+  - name: Crisco vegetable shortening
+    amount: 1/2 cup
+  - name: Vanilla extract
+    amount: 1 tbsp
+  - name: Salt
+    amount: 1/8 tsp
+  - name: Powdered sugar
+    amount: 4 cups
+  - name: Milk
+    amount: 1/4 cup
+steps:
+  - step: Place Crisco, vanilla, and salt in a medium-sized bowl.
+    substeps:
+      - Crisco
+      - Vanilla
+      - Salt
+  - step: Beat above ingredients with a mixer on high speed until light and fluffy.
+  - step: Switch mixer to low speed; alternate adding powdered sugar and milk until all ingredients are blended.
+  - step: Beat blended ingredients at high speed about 2 minutes, until frosting is smooth and fluffy.
+produces: Frosting to decorate 18 cupcakes, a 9x13 cake, or a batch of sugar cookies.
+source: https://premeditatedleftovers.com/recipes-cooking-tips/crisco-frosting/

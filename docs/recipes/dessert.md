@@ -1,0 +1,3 @@
+# Dessert
+
+{{recipe("dessert/frosting")}}
