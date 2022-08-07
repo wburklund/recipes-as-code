@@ -1,0 +1,24 @@
+name: No-Bake Energy Bites
+description: |
+  Energy without the crash.
+ingredients:
+  - name: Old-fashioned oats
+    amount: 1 cup
+  - name: Miniature semisweet chocolate chips
+    amount: 1/2 cup
+  - name: Ground flax seed
+    amount: 1/2 cup
+  - name: Crunchy peanut butter
+    amount: 1/2 cup
+  - name: Honey
+    amount: 1/3 cup
+  - name: Chia seeds (optional)
+    amount: 1 tbsp
+  - name: Vanilla extract
+    amount: 1 tsp
+steps:
+  - step: Stir all ingredients together in a bowl.
+  - step: Chill bowl for 1-2 hours.
+  - step: Roll mixture into 1-inch balls.
+produces: Two dozen bites.
+source: https://www.gimmesomeoven.com/no-bake-energy-bites/
