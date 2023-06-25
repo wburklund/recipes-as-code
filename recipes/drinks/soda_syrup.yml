@@ -1,0 +1,40 @@
+name: Soda Syrup
+description: |
+  Homemade replacement for typical soda syrups using RIO Syrup Company flavor concentrate as a base.
+  Sweetener/caffeine amounts are based off of Coca-Cola Zero.
+  Perfected xanthan gum is used in place of gum arabic to reduce environmental impact and cost.
+  This ingredient likes to create gumballs, but these can be minimized with proper handling.
+  Syrup blend is highly customizable with many different flavor concentrates available.
+  Can be scaled up to 6x on typical magnetic stirrers.
+
+  Required equipment: Measuring cup or beaker, magnetic stirrer, milligram scale
+ingredients:
+  - name: Water
+    amount: 15 fl oz
+  - name: RIO Syrup Company flavor concentrate (any flavor)
+    amount: 1 fl oz
+    link: https://riosyrup.com/flav/Original.htm
+  - name: Aspartame (pure)
+    amount: 1650 mg
+    link: https://www.bulksupplements.com/products/aspartame-powder
+  - name: Acesulfame potassium (pure)
+    amount: 895 mg
+    link: https://www.amazon.com/Acesulfame-Potassium-Ace-K-Semi-Natural-Sweetener/dp/B01HFSKE5A
+  - name: (Optional) Caffeine (pure)
+    amount: 650 mg
+  - name: Perfected xanthan gum
+    amount: 1/4 tsp
+    link: https://modernistpantry.com/products/perfected-xanthan-gum.html
+steps:
+  - step: Fill measuring cup or beaker with 15 fl oz water and place on magnetic stirrer plate
+  - step: Place magnetic stirring rod in water container and turn on magnetic stirrer so that water vortex reaches just above the bottom of the container
+  - step: Add powdered ingredients, measuring using milligram scale
+    substeps:
+      - Aspartame
+      - Acesulfame potassium
+      - (Optional) Caffeine
+  - step: Add flavor concentrate
+  - step: Allow contents to mix for 1+ hour
+  - step: Turn off magnetic stirrer and remove magnetic stirring rod using a spoon
+  - step: While stirring vigorously wiht a spoon, add perfected xanthan gum very gradually to minimize gumballs
+produces: 2 cups / 19 cans equivalent soda syrup.
