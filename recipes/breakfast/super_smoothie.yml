@@ -15,8 +15,8 @@ ingredients:
   - name: Banana
     amount: 1
   - name: Whey protein
-    amount: 2 scoops
-    link: https://www.amazon.com/Optimum-Nutrition-Standard-Protein-Chocolate/dp/B000QSNYGI
+    amount: 55 g
+    link: https://www.bulksupplements.com/products/whey-protein-powder-isolate-90-percent-clean
   - name: Milk
     amount: 1 cup
     link: ../../techniques/substitutions/#whole-milk
