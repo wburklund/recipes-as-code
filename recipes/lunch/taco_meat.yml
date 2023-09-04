@@ -3,7 +3,7 @@ description: |
   Classic taco meat.
   I multiply the recipe by a factor of 2 or 3.
 ingredients:
-  - name: Lean ground beef
+  - name: Lean ground beef/ground turkey
     amount: 1 lb
   - name: Tomato sauce
     amount: 1/2 cup
@@ -13,7 +13,7 @@ ingredients:
     amount: 2 tbsp
     link: ../../recipes/spices/#taco-seasoning
 steps:
-  - step: Brown the ground beef over medium-high heat, crumbling into small chunks
+  - step: Brown the meat over medium-high heat, crumbling into small chunks
   - step: Drain fat with paper towels or a colander
   - step: Return meat and add other ingredients to pan
     substeps:
