@@ -33,8 +33,9 @@ steps:
       - Aspartame
       - Acesulfame potassium
       - (Optional) Caffeine
+  - step: Allow contents to mix for 1+ hour, until all clumps dissolve. You may need to break up some clumps to speed the process
   - step: Add flavor concentrate
-  - step: Allow contents to mix for 1+ hour
+  - step: Allow contents to mix for ~1 minute
   - step: Turn off magnetic stirrer and remove magnetic stirring rod using a spoon
   - step: While stirring vigorously wiht a spoon, add perfected xanthan gum very gradually to minimize gumballs
-produces: 2 cups / 19 cans equivalent soda syrup.
+produces: 2 cups / 19 cans equivalent soda syrup. Mix in a ~1:14 ratio with carbonated water to prepare a drink
